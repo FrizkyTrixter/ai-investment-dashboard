@@ -1,2 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
+scored_headlines_full.csv filter=lfs diff=lfs merge=lfs -text
+cache_equity.pkl filter=lfs diff=lfs merge=lfs -text
+cache_macro.pkl filter=lfs diff=lfs merge=lfs -text
